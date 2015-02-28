@@ -1,0 +1,24 @@
+{
+  "name": "koa-joi-ride",
+  "version": "0.0.0",
+  "description": "A joi powered router for koa.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javascriptismagic/koa-joi-ride.git"
+  },
+  "keywords": [
+    "koa",
+    "joi",
+    "routing"
+  ],
+  "author": "Brian <javascriptismagic@gmail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/javascriptismagic/koa-joi-ride/issues"
+  },
+  "homepage": "https://github.com/javascriptismagic/koa-joi-ride",
+  "dependencies": {
+    "joi": "^5.1.0",
+    "koa-joi": "^0.1.0"
+  }
+}
