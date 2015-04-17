@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/javascriptismagic/koa-joi-ride",
   "dependencies": {
+    "enjoi": "^0.2.2",
     "joi": "^5.1.0",
-    "koa-joi": "^0.1.0"
+    "koa-router": "^4.2.0"
   }
 }
